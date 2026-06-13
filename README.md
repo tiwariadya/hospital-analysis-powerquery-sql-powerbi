@@ -157,25 +157,25 @@ Developed an end-to-end healthcare analytics solution that transformed raw opera
 
 hospital-analysis-powerquery-sql-powerbi/
 │
-├── 📊 hospital_analysis_project.pbix
-├── 🗄️ hospital_analysis_project.sql
-├── 🖼️ hospital_data_model.png
+├── hospital_analysis_project.pbix
+├── hospital_analysis_project.sql
+├── hospital_data_model.png
 │
-├── 📸 Screenshots/
+├── Screenshots/
 │   ├── 1_Executive_Overview.png
 │   ├── 2_Patient_Analytics.png
 │   ├── 3_Payer_Analytics.png
 │   ├── 4_Procedure_Analytics.png
 │   └── 5_Cost_Coverage_Analytics.png
 │
-├── 📂 Data/
+├── Data/
 │   ├── encounters.csv
 │   ├── patients.csv
 │   ├── payers.csv
 │   ├── procedures.csv
 │   └── organizations.csv
 │
-└── 📄 README.md
+└── README.md
 
 # 10. View Dashboard
 **Live Dashboard:** https://app.powerbi.com/groups/me/reports/b1a19621-3678-4468-91c8-00f692515cfc/5f1c40399b3d9002c8b5?experience=power-bi
