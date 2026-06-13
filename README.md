@@ -181,4 +181,4 @@ hospital-analysis-powerquery-sql-powerbi/
 **Live Dashboard:** https://app.powerbi.com/groups/me/reports/b1a19621-3678-4468-91c8-00f692515cfc/5f1c40399b3d9002c8b5?experience=power-bi
 
 # 11. About 
-**LinkedIn:** https://www.linkedin.com/in/adyatiwariofficial
+**LinkedIn:** [Adya Tiwari](https://www.linkedin.com/in/adyatiwariofficial)
